@@ -275,13 +275,13 @@
     
     
     
-    <category term="知识集" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/"/>
-    
     <category term="题集" scheme="https://www.pri87.vip/categories/%E9%A2%98%E9%9B%86/"/>
     
-    <category term="逆向" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/%E9%80%86%E5%90%91/"/>
+    <category term="知识集" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/"/>
     
     <category term="CTF" scheme="https://www.pri87.vip/categories/%E9%A2%98%E9%9B%86/CTF/"/>
+    
+    <category term="逆向" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/%E9%80%86%E5%90%91/"/>
     
     <category term="比赛" scheme="https://www.pri87.vip/categories/%E9%A2%98%E9%9B%86/CTF/%E6%AF%94%E8%B5%9B/"/>
     
