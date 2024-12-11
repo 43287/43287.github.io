@@ -499,17 +499,17 @@
       
       <categories>
           
-          <category> 知识集 </category>
-          
           <category> 题集 </category>
           
-          <category> 逆向 </category>
+          <category> 知识集 </category>
           
           <category> CTF </category>
           
-          <category> 语言 </category>
+          <category> 逆向 </category>
           
           <category> 比赛 </category>
+          
+          <category> 语言 </category>
           
           <category> python </category>
           
@@ -1499,15 +1499,15 @@
       
       <categories>
           
-          <category> 知识集 </category>
-          
           <category> 实践 </category>
+          
+          <category> 知识集 </category>
           
           <category> 逆向 </category>
           
-          <category> 语言 </category>
-          
           <category> 记录 </category>
+          
+          <category> 语言 </category>
           
           <category> java </category>
           
@@ -1573,9 +1573,9 @@
       
       <categories>
           
-          <category> 知识集 </category>
-          
           <category> 实践 </category>
+          
+          <category> 知识集 </category>
           
           <category> 环境配置 </category>
           
@@ -1604,9 +1604,9 @@
       
       <categories>
           
-          <category> 知识集 </category>
-          
           <category> 实践 </category>
+          
+          <category> 知识集 </category>
           
           <category> 逆向 </category>
           
@@ -1827,11 +1827,11 @@
       
         <tags>
             
-            <tag> 对称加密 </tag>
-            
             <tag> 密码 </tag>
             
             <tag> 加密方法 </tag>
+            
+            <tag> 对称加密 </tag>
             
             <tag> 流加密 </tag>
             
@@ -2337,9 +2337,9 @@
       
         <tags>
             
-            <tag> 块加密 </tag>
-            
             <tag> 对称加密 </tag>
+            
+            <tag> 块加密 </tag>
             
         </tags>
       
@@ -2366,11 +2366,11 @@
       
         <tags>
             
-            <tag> 对称加密 </tag>
-            
             <tag> 密码 </tag>
             
             <tag> 加密方法 </tag>
+            
+            <tag> 对称加密 </tag>
             
             <tag> 流加密 </tag>
             
@@ -2401,9 +2401,9 @@
             
             <tag> 学习 </tag>
             
-            <tag> 壳 </tag>
-            
             <tag> PE </tag>
+            
+            <tag> 壳 </tag>
             
         </tags>
       
