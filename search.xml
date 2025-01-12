@@ -11,6 +11,26 @@
         <content type="html"><![CDATA[<h2 id="API勾取"><a href="#API勾取" class="headerlink" title="API勾取"></a>API勾取</h2><p>实际上就是对程序使用的系统API进行Hook</p><p><img src="https://s2.loli.net/2025/01/10/YvLw8UG9QMeoKry.png" alt="image-20250110233657957"></p><p>可以修改IAT&#x2F;EAT&#x2F;代码，对于直接hook代码，和之前的inlineHook一样<br>对于IAT，是程序执行对应API代码时，IAT会存放对应函数偏移，</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">jmp cs:offset</span><br><span class="line">......</span><br><span class="line">offset 真实偏移</span><br></pre></td></tr></table></figure><p>可以直接修改这里的真实偏移，然后跳转到自己的代码中，最后跳转到真实偏移地址。</p><p>本质上还是Hook，但是要注意参数的传递，具体可以看之前的调用约定那一篇或者具体调试分析。</p><h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><p>详见下面这个项目：</p><p><a href="https://github.com/43287/AntiAntiDebug_plugin_for_IDA8.3">43287&#x2F;AntiAntiDebug_plugin_for_IDA8.3: 一个只支持x64的IDA反调试插件</a></p><p>其中使用了IAThook和InlineHook</p>]]></content>
       
       
+      <categories>
+          
+          <category> 逆向工程核心原理 </category>
+          
+          <category> 知识集 </category>
+          
+          <category> 逆向 </category>
+          
+          <category> 技能 </category>
+          
+          <category> Hook </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> win </tag>
+            
+        </tags>
       
     </entry>
     
@@ -2235,11 +2255,11 @@
       
         <tags>
             
-            <tag> 对称加密 </tag>
-            
             <tag> 密码 </tag>
             
             <tag> 加密方法 </tag>
+            
+            <tag> 对称加密 </tag>
             
             <tag> 流加密 </tag>
             
@@ -2745,9 +2765,9 @@
       
         <tags>
             
-            <tag> 块加密 </tag>
-            
             <tag> 对称加密 </tag>
+            
+            <tag> 块加密 </tag>
             
         </tags>
       
@@ -2774,11 +2794,11 @@
       
         <tags>
             
-            <tag> 对称加密 </tag>
-            
             <tag> 密码 </tag>
             
             <tag> 加密方法 </tag>
+            
+            <tag> 对称加密 </tag>
             
             <tag> 流加密 </tag>
             
