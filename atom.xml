@@ -6,7 +6,7 @@
   <link href="https://www.pri87.vip/atom.xml" rel="self"/>
   
   <link href="https://www.pri87.vip/"/>
-  <updated>2025-03-11T14:36:48.210Z</updated>
+  <updated>2025-03-11T14:40:18.392Z</updated>
   <id>https://www.pri87.vip/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.pri87.vip/posts/68aa715f.html"/>
     <id>https://www.pri87.vip/posts/68aa715f.html</id>
     <published>2025-03-10T16:00:00.000Z</published>
-    <updated>2025-03-11T14:36:48.210Z</updated>
+    <updated>2025-03-11T14:40:18.392Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="认证失败，未授权。" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="affa044a532f40279e8b1f174c9819c18a3b2c455425d558fb06206a50a6523f">1b693c4938223286468132b2f7068bf679c77cc798bd31ca891b7e248c9cf3a108ecf5f552fc8830493c440af8b2216e</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">识别到用户访问</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<div class='poem'><div class='poem-title'></div><div class='poem-author'></div><p>我爱那个人，</p><p>他看见骰子有利于他而怀惭，</p><p>而他自问：我是一个作弊的赌博者吗？</p><p>——因为他愿意死灭。</p></div><p>一段路，终究是自己的，终究是自己走的，终究是走向毁灭的。</p><p>一年的苦旅，一瞬的悲鸣，又似曾想起过往的起伏，过往的酸辛。梦幻——是我对生活的评价。然而所谓的”生活“，只是在我遥不可及的上空默默旁观我的负隅顽抗——对极简的和繁琐的，对天真的和成熟的，对铭记的和忘却的，对情感的和世界的，对生活和现实的。就像一绽的昙花，与已逝的泡沫，随风远去的我的灵魂，也在展露光华之后沉没在海中。那片海，只会偏爱我高歌猛进，只会怜悯我向隅而泣，对其余一概不管不问，漠不关心。因而我所心慕手追的那片星海，同其余人一道的那片，只不过是名为“星海”的幻觉，名为“星海”的星海。它不关心我，只关心我的爱与恨。它不关心我，只关心我的幻觉是否深刻。它不关心我，只关心我所拥有的一切。我是羡慕的，羡慕和我一起沉默在海中的尘埃们，它们从阴翳之中来，到海中去，去洗去阴翳，迎接梦幻。当我看到它的时候，我就知道，我已然离不开它，因为这里是单向度的，这里只有下沉，而没有给旅者一条归途。所以呢，我想要回去吗？做梦吧——梦里的海，才是一片花海，一片粉红。然而越是梦，越是看见了梦的可怖，因为梦身在海中。一种不寒而栗，一种细思极恐于镜面晃碎了海中飘渺的倩影形成阴霾，我拨开那片阴翳，只能看见头顶的星，一如既往地对我发出嘲笑，漠视我向更深的海沟中沉没，成为星本身。</p><p>梦——何时才能醒呢</p><hr><p>还是要总结一下这一年的学习，只能说，还是只有上学期学得好些，比较自由，这个学期总是有一堆杂事，什么办比赛啊，招新啊，不过这个学期一完，下学期应该就好了，再也不想出题了QAQ，这个学期，在Windows方向继续深入学习：</p><ul><li>栈，函数调用约定</li><li>系统调用</li><li>APC注入</li><li>WIN并发与同步</li><li>DLL卸载</li><li>PE加载器实现</li><li>多线程基本知识</li></ul><p>做题方面：</p><ul><li>sekaictf 复现了1个题</li><li>长城杯 复现了2个题</li><li>SCTF 复现了1个题</li><li>网鼎杯青龙 复现完毕</li><li>强网杯 复现了3个题</li><li>强网拟态 复现了3个题，有一个不会</li><li>鹏城杯 做了4个，还没复现</li><li>楚慧杯 ak</li></ul><p>做题确实做少了，一直在忙招新和出题的事情，裂开了，之后要开始复现了</p><p>CTF相关的其它方面：<br>这个学期学了很多和python有关的知识点</p><ul><li>SCTF的CYTHON复现</li><li>Cython学习</li><li>python运行时获取信息</li></ul><p>工具使用：</p><ul><li>angr学习</li><li>idaPython常见接口</li><li>Frida基本使用方法</li></ul><p>开发方面：</p><ul><li>CPP网络编程</li><li>JAVA相关</li></ul><p>越往后写，越发现我菜，大概就只学了这么多了，太悲伤了<br>不过一想到还是出了6个视频给萌新看，又感觉还不错<br>新的一年，加油学习吧！</p><p>后续规划：<br>WINDOWS还是要继续学的，学长建议学点其它方向的内容，我决定还是学点PWN<br>Z师傅说他要学WEB，我准备和他每周交换一下学习进度，就当作我也在学了<br>PWN的话主要就是跟着师傅们的路线学就好，有问题就问</p><p>CPP是要继续学的，我想把这个当作我的第一语言，我已经有了一个服务器了，尝试写一个可以交互的程序，如果可以学一点图形化。CPP还是得在实践中练习<br>JAVA项目是要继续的，好歹是第一个拿到的项目，我也想看到它上架创意工坊的一天。</p><p>WIN逆向相关我也得继续学，具体路线是跟着逆向工程核心原理来学，我才看完DLL注入，后面还有代码注入，API勾取，64位WIN内核，高级逆向分析技术（TEB和PEB，SEH和VEH，反调，自我创建等）<br>然后就是跟着Windows内核课继续学，这个太难了，等着抽空学吧</p><p>今天看了看招聘信息，感觉我的实践能力还是太弱了，不过也确实没什么时间实践了，我准备把这个放到下个学期开始之后，距离放假还有3周还有3，4科要复习，start study！追求自己的热爱，何尝不是一种生活！</p><hr><p>本站建成于2023年12月12日，已写86篇博客，总字数达到15万字（虽然一堆是代码），十分开心。建站初衷是记录自己的成长和帮助大家！</p><p>今天你热爱生活了吗？</p>]]></content>
     
     
     <summary type="html">xxx</summary>
@@ -37,7 +37,7 @@
     <category term="日常" scheme="https://www.pri87.vip/categories/%E5%AE%9E%E8%B7%B5/%E8%AE%B0%E5%BD%95/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="[object Object]" scheme="https://www.pri87.vip/tags/object-Object/"/>
+    <category term="一周年纪念" scheme="https://www.pri87.vip/tags/%E4%B8%80%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5/"/>
     
   </entry>
   
@@ -427,9 +427,9 @@
     
     
     
-    <category term="知识集" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/"/>
-    
     <category term="实践" scheme="https://www.pri87.vip/categories/%E5%AE%9E%E8%B7%B5/"/>
+    
+    <category term="知识集" scheme="https://www.pri87.vip/categories/%E7%9F%A5%E8%AF%86%E9%9B%86/"/>
     
     <category term="记录" scheme="https://www.pri87.vip/categories/%E5%AE%9E%E8%B7%B5/%E8%AE%B0%E5%BD%95/"/>
     
