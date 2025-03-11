@@ -1267,17 +1267,17 @@
       
       <categories>
           
-          <category> 知识集 </category>
-          
           <category> 题集 </category>
           
-          <category> 逆向 </category>
+          <category> 知识集 </category>
           
           <category> CTF </category>
           
-          <category> 语言 </category>
+          <category> 逆向 </category>
           
           <category> 比赛 </category>
+          
+          <category> 语言 </category>
           
           <category> python </category>
           
