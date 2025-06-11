@@ -3173,10 +3173,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://t.mwm.moe/pc);
+    --default-bg: url(https://t.alcy.cc/ycy);
     --darkmode-bg:url(https://tuchuang.voooe.cn/images/2023/12/11/91745378_p0_master1200.jpg);
-    --mobileday-bg: url(https://t.mwm.moe/mp);
-    --mobilenight-bg: url(https://t.mwm.moe/mp);
+    --mobileday-bg: url(https://t.alcy.cc/ycy);
+    --mobilenight-bg: url(https://t.alcy.cc/ycy);
   }`;
 }
 // 切换背景主函数
